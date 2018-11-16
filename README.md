@@ -15,6 +15,7 @@
 ## Result
 
 ** mnist training result**
+
 *0_epoch*
 
 ![](mnistsample_0_epoch.png)
@@ -44,6 +45,7 @@
 ![](mnistsample_50000_epoch.png)
 
 ** faces training result**
+
 *0_epoch*
 
 ![](sampleface_0_epoch.png)
