@@ -16,36 +16,64 @@
 
 ** mnist training result**
 *0_epoch*
+
 ![](mnistsample_0_epoch.png)
+
 *50_epoch*
+
 ![](mnistsample_50_epoch.png)
+
 *100_epoch*
+
 ![](mnistsample_100_epoch.png)
+
 *500_epoch*
+
 ![](mnistsample_500_epoch.png)
+
 *1000_epoch*
+
 ![](mnistsample_1000_epoch.png)
+
 *10000_epoch*
+
 ![](mnistsample_10000_epoch.png)
+
 *50000_epoch*
+
 ![](mnistsample_50000_epoch.png)
 
 ** faces training result**
 *0_epoch*
+
 ![](sampleface_0_epoch.png)
+
 *50_epoch*
+
 ![](sampleface_50_epoch.png)
+
 *100_epoch*
+
 ![](sampleface_100_epoch.png)
+
 *500_epoch*
+
 ![](sampleface_500_epoch.png)
+
 *1000_epoch*
+
 ![](sampleface_1000_epoch.png)
+
 *5000_epoch*
+
 ![](sampleface_5000_epoch.png)
+
 *10000_epoch*
+
 ![](sampleface_10000_epoch.png)
+
 *49999_epoch*
+
 ![](sampleface_49999_epoch.png)
 
 ## Contact
