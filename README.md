@@ -3,7 +3,7 @@
 
 ## How to Use
 
-**1、i have implemented the GAN Model with tensorflow,you just download the project**
+**1、i have implemented the GAN Model with tensorflow,you just download the project.**
 
 **2、prepare data.download mnist data from http://yann.lecun.com/exdb/mnist/ ,faces data is very rich,you can download anything.
 
