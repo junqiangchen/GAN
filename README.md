@@ -1,6 +1,15 @@
 # Generate Image With GAN
 > This is an example of GAN,how to generate mnist and faces image.
 
+## Prerequisities
+The following dependencies are needed:
+- numpy >= 1.11.1
+- SimpleITK >=1.0.1
+- opencv-python >=3.3.0
+- tensorflow-gpu ==1.8.0
+- pandas >=0.20.1
+- scikit-learn >= 0.17.1
+
 ## How to Use
 
 **1、i have implemented the GAN Model with tensorflow,you just download the project.**
