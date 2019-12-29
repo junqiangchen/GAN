@@ -1,5 +1,5 @@
 # Generate Image With GAN
-> This is an example of GAN,how to generate mnist and faces image.
+> This is an example of GAN, how to generate mnist and faces image.
 
 ## Prerequisities
 The following dependencies are needed:
@@ -12,13 +12,13 @@ The following dependencies are needed:
 
 ## How to Use
 
-**1、i have implemented the GAN Model with tensorflow,you just download the project.**
+** 1、I have implemented the GAN Model with tensorflow,you just download the project.**
 
-**2、prepare data.download mnist data from http://yann.lecun.com/exdb/mnist/ ,faces data is very rich,you can download anything.**
+** 2. prepare data. download mnist data from http://yann.lecun.com/exdb/mnist/ ,faces data is very rich, you can download anything.**
 
-**3、when data is prepared,just run the face_gantest.py for training and generating face images,run the mnist_gantest.py for training and generating mnist images.**
+** 3. when data is prepared, just run the face_gantest.py for training and generating face images, run the mnist_gantest.py for training and generating mnist images.**
 
-**4、training the model on the GTX1080,it takes several hours,if you need,i will share those trained model,but it not very difficult,you can try on your own.**
+** 4. training the model on the GTX1080, it takes several hours, if you need, I will share those trained model, but it not very difficult, you can try on your own.**
 
 
 ## Result
